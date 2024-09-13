@@ -1,5 +1,7 @@
 package com.example.fitsutra
 
+import HomeFragment
+import ReportFragment
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment

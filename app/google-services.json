@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534917470782",
+    "project_id": "fitsutra-3c8d7",
+    "storage_bucket": "fitsutra-3c8d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534917470782:android:2d2d784337893afe10cf6f",
+        "android_client_info": {
+          "package_name": "com.example.fitsutra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHtAUx8IKaGSm6qwZUhNLUajvA0iHUTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
