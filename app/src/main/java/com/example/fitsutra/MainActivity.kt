@@ -1,5 +1,6 @@
 package com.example.fitsutra
 
+import ExerciseFragment
 import HomeFragment
 import ReportFragment
 import androidx.appcompat.app.AppCompatActivity
