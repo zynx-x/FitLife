@@ -35,11 +35,11 @@ Experience immersive and interactive fitness sessions through augmented reality.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="path/to/screenshot1.jpg" width="18%" />
-  <img src="path/to/screenshot2.jpg" width="18%" />
-  <img src="path/to/screenshot3.jpg" width="18%" />
-  <img src="path/to/screenshot4.jpg" width="18%" />
-  <img src="path/to/screenshot5.jpg" width="18%" />
+  <img src="Screenshots  /ss1.jpg" width="18%" />
+  <img src="Screenshots  /ss2.jpg" width="18%" />
+  <img src="Screenshots  /ss3.jpg" width="18%" />
+  <img src="Screenshots  /ss4.jpg" width="18%" />
+  <img src="Screenshots  /ss5.jpg" width="18%" />
 </div>
 
 ---
